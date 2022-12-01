@@ -1,7 +1,7 @@
+# SOLAR SYSTEM IMPLEMENTATION IN BLENDER
 780.214 – Introduction to Computer Graphics Summer Term, 2022 <br />
 Project Write Up <br />
 
-# SOLAR SYSTEM IMPLEMENTATION IN BLENDER
 
 Palina Dubatouka, 12116714 <br />
 ## Introduction
