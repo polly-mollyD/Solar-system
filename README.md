@@ -1,11 +1,10 @@
-# Solar-system
+780.214 – Introduction to Computer Graphics Summer Term, 2022 <br />
+Project Write Up <br />
 
-780.214 – Introduction to Computer Graphics Summer Term, 2022
-Project Write Up
-SOLAR SYSTEM IMPLEMENTATION
-IN BLENDER
-Palina Dubatouka, 12116714
- Introduction
+# SOLAR SYSTEM IMPLEMENTATION IN BLENDER
+
+Palina Dubatouka, 12116714 <br />
+## Introduction
 The illustration of the Solar System in Blender implementation will be
 presented and discussed in the given project report. The general idea is to develop
 a model that can take the approximate positions, masses and velocities of some
